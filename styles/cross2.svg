@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 579.997 579.997"
+   height="521.48102"
+   viewBox="0 0 526.14306 521.481"
+   width="526.14307"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke-width:1"
+       d="M 187.69258,397.90828 V 338.6583 H 130.47171 73.250836 v -77.91779 -77.91779 h 57.220874 57.22087 V 123.57274 64.322756 h 75.48286 75.48286 v 59.249984 59.24998 h 57.22087 57.22087 v 77.91779 77.91779 H 395.87917 338.6583 v 59.24998 59.24998 h -75.48286 -75.48286 z"
+       id="path30" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke-width:1"
+       d="M 1.0145545,260.74051 V 0.60873271 H 263.58126 526.14797 V 260.74051 520.87229 H 263.58126 1.0145545 Z m 497.5375355,0 V 28.204615 H 263.58126 28.610437 V 260.74051 493.2764 H 263.58126 498.55209 Z"
+       id="path31" />
+  </g>
+</svg>
